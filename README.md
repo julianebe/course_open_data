@@ -33,18 +33,19 @@ Aucun prétraitement des données jusqu'à ce moment.
 
 # Dossiers
 Nomenclature utilisée dans ce projet:   
-date(yyyymmdd)_contributeur_nomdeprojet_corpus_typededonnées_nomdefichier   
+date(yyyymmdd)_contributeur_nomdeprojet_corpus_typededonnées_nomdefichier_version   
 
 Abréviation des contributeurs:   
 Juliane Benson: JB   
 
-ex: 20240124_JB_donnee_ouvertes_docpubqc_histogram_freqlang.png  
+ex: 20240124_JB_donnee_ouvertes_docpubqc_histogram_freqlang_sansfren.png  
 date: 20240124  
 contributeur: JB (Juliane Benson)  
 nomdeprojet: donnee_ouvertes   
 corpus: docpubqc (Documents publiés au Québec)   
 typededonnées: histogram   
-nomdefichier: freqlang (fréquence des langues)   
+nomdefichier: freqlang (fréquence des langues)    
+version (optionelle): sansfren (exlut de langues français et anglais)
 
 ## Donnees
 contient des tableaux de données.
@@ -54,12 +55,14 @@ contient des tableaux de données.
 ## Figures
 inclut les figures/ visualisations générés.
 
-**20240124_JB_donneesouvertes_docpubqc_histogram_freqlang.png** contient un histogram montrant la fréquence des langues du jeu de donnée documents publié au au Québec.
+**20240124_JB_donneesouvertes_docpubqc_histogram_freqlang_complet.png** contient un histogram montrant la fréquence des langues (complet) du jeu de donnée documents publié au au Québec.
+**20240124_JB_donneesouvertes_docpubqc_histogram_freqlang_sansfren.png** contient un histogram montrant la fréquence des langues (sans français et anglais) du jeu de donnée documents publié au au Québec.
 
 ## Resultats
 comprend des tableaux d'analyse et des données d'entrée pour générer les chiffres.
 
-**20240124_JB_donneesouvertes_docpubqc_table_freqlang.csv** contient un table de fréquence des langues du jeu de donnée documents publié au au Québec.
+**20240124_JB_donneesouvertes_docpubqc_table_freqlang_sansfren_complet.csv** contient un table de fréquence des langues (prétraiter par exclusion des attributs sans valeur linguistique) du jeu de donnée documents publié au au Québec.
+**20240124_JB_donneesouvertes_docpubqc_table_freqlang_sansfren_sansfren.csv** contient un table de fréquence des langues (sans français et anglais) du jeu de donnée documents publié au au Québec.
 
 ## Scripts (pas existant)
 Aucun code jusqu'à ce moment.
