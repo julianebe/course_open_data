@@ -21,7 +21,9 @@ Ce référentiel est créé dans le contexte du cours Données ouvertes (HNU6055
 
 ## Source de données:
 Documents publiés au Québec
+
 [L]e jeu de données regroupe l'ensemble des documents (partitions musicales, publications officielles, livres, programmes de spectacles...) porteurs d'un ISBN qui ont été publiés au Québec depuis 2010 et acquis par dépôt légal, achat ou don.
+
 Bibliothèque et Archives nationales du Québec (BAnQ) - Direction de l'Expérience et de la Transformation Numérique (DETN), Attribution (CC-BY 4.0)
 
 https://www.donneesquebec.ca/recherche/dataset/documents_publies_quebec
