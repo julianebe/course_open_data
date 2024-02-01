@@ -30,7 +30,7 @@ https://www.donneesquebec.ca/recherche/dataset/documents_publies_quebec
 Aucun prétraitement des données jusqu'à ce moment.
 
 # Dossiers
-nomenclature utilisé dans ce projet:
+Nomenclature utilisé dans ce projet:
 date(yyyymmdd)_contributeur_nomdeprojet_corpus_typededonnées_nomdefichier
 Abréviation des contributeurs:
 Juliane Benson: JB
