@@ -1,6 +1,6 @@
 # Humanités numériques : données ouvertes (HNU6055-A-H24)
 
-On travail toujours avec des données, mais on s'en occupe peu. 
+On travail toujours avec des données, mais on s'en occupe peu.   
 Dans les sciences humaines et les contextes culturels en particulier, on peut rapidement tomber sur des données sensibles. La voie la plus simple n'est pas forcément la meilleure et ce n'est pas parce que l'on peut théoriquement tirer quelque chose des données qu'il faut les utiliser sans les soumettre à un regard critique. Les données ne reflètent qu'une partie, par exemple une société qui a intériorisé la discrimination. Si l'on travaille ensuite avec les données, le résultat est également affecté par cette discrimination.
 
 Shield : [![CC BY 4.0][cc-by-shield]][cc-by]
@@ -32,18 +32,19 @@ https://www.donneesquebec.ca/recherche/dataset/documents_publies_quebec
 Aucun prétraitement des données jusqu'à ce moment.
 
 # Dossiers
-Nomenclature utilisé dans ce projet:
-date(yyyymmdd)_contributeur_nomdeprojet_corpus_typededonnées_nomdefichier
-Abréviation des contributeurs:
-Juliane Benson: JB
+Nomenclature utilisé dans ce projet:   
+date(yyyymmdd)_contributeur_nomdeprojet_corpus_typededonnées_nomdefichier   
 
-ex: 20240124_JB_donnee_ouvertes_docpubqc_histogram_freqlang.png
-date: 20240124 \n
-contributeur: JB (Juliane Benson) \n
-nomdeprojet: donnee_ouvertes
-corpus: docpubqc (Documents publiés au Québec)
-typededonnées: histogram
-nomdefichier: freqlang (fréquence des langues)
+Abréviation des contributeurs:   
+Juliane Benson: JB   
+
+ex: 20240124_JB_donnee_ouvertes_docpubqc_histogram_freqlang.png  
+date: 20240124  
+contributeur: JB (Juliane Benson)  
+nomdeprojet: donnee_ouvertes   
+corpus: docpubqc (Documents publiés au Québec)   
+typededonnées: histogram   
+nomdefichier: freqlang (fréquence des langues)   
 
 ## Donnees
 contient des tableaux de données.
