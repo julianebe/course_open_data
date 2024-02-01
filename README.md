@@ -55,7 +55,7 @@ contient des tableaux de données.
 ## Figures
 inclut les figures/ visualisations générés.
 
-**20240124_JB_donneesouvertes_docpubqc_histogram_freqlang_complet.png** contient un histogram montrant la fréquence des langues (complet) du jeu de donnée documents publié au au Québec.
+**20240124_JB_donneesouvertes_docpubqc_histogram_freqlang_complet.png** contient un histogram montrant la fréquence des langues (complet) du jeu de donnée documents publié au au Québec.   
 **20240124_JB_donneesouvertes_docpubqc_histogram_freqlang_sansfren.png** contient un histogram montrant la fréquence des langues (sans français et anglais) du jeu de donnée documents publié au au Québec.
 
 ## Resultats
