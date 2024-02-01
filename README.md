@@ -29,7 +29,8 @@ Bibliothèque et Archives nationales du Québec (BAnQ) - Direction de l'Expérie
 https://www.donneesquebec.ca/recherche/dataset/documents_publies_quebec
 
 # Prétraitement des données
-Aucun prétraitement des données jusqu'à ce moment.
+Aucun prétraitement général des données jusqu'à ce moment.   
+Prétraitement specifique dans le cadre de création des tableaux d'analyse. Voir resultats
 
 # Dossiers
 Nomenclature utilisée dans ce projet:   
