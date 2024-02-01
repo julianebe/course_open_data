@@ -62,8 +62,8 @@ inclut les figures/ visualisations générées.
 ## Resultats
 comprend des tableaux d'analyse et des données d'entrée pour générer les chiffres.
 
-**20240124_JB_donneesouvertes_docpubqc_table_freqlang_sansfren_complet.csv** contient un table de fréquence des langues (prétraiter par exclusion des attributs sans valeur linguistique) du jeu de donnée documents publié au au Québec.
-**20240124_JB_donneesouvertes_docpubqc_table_freqlang_sansfren_sansfren.csv** contient un table de fréquence des langues (sans français et anglais) du jeu de donnée documents publié au au Québec.
+**20240124_JB_donneesouvertes_docpubqc_table_freqlang_sansfren_complet.csv** contient un table de fréquence des langues (prétraité par exclusion des attributs sans valeur linguistique) du jeu de donnée documents publié au au Québec.
+**20240124_JB_donneesouvertes_docpubqc_table_freqlang_sansfren_sansfren.csv** contient un table de fréquence des langues (prétraité par exclusion des attributs sans valeur linguistique et sans français et anglais) du jeu de donnée documents publié au au Québec.
 
 ## Scripts (pas existant)
 Aucun code jusqu'à ce moment.
