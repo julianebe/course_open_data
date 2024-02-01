@@ -32,7 +32,7 @@ https://www.donneesquebec.ca/recherche/dataset/documents_publies_quebec
 Aucun prétraitement des données jusqu'à ce moment.
 
 # Dossiers
-Nomenclature utilisé dans ce projet:   
+Nomenclature utilisée dans ce projet:   
 date(yyyymmdd)_contributeur_nomdeprojet_corpus_typededonnées_nomdefichier   
 
 Abréviation des contributeurs:   
