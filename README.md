@@ -38,8 +38,8 @@ Abréviation des contributeurs:
 Juliane Benson: JB
 
 ex: 20240124_JB_donnee_ouvertes_docpubqc_histogram_freqlang.png
-date: 20240124
-contributeur: JB (Juliane Benson)
+date: 20240124 \n
+contributeur: JB (Juliane Benson) \n
 nomdeprojet: donnee_ouvertes
 corpus: docpubqc (Documents publiés au Québec)
 typededonnées: histogram
