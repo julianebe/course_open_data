@@ -53,7 +53,7 @@ contient des tableaux de données.
 **20240124_JB_donneesouvertes_docpubqc_table_donbrutes.zip** contient une table(.csv) avec la liste des documents publiées dès 2010 au Québec qui ont un ISBN ensemble avec des caractéristiques comme titre, createur, sujet, maison de livre, date, genre et langue. (accédé le 24 janvier 2024)
 
 ## Figures
-inclut les figures/ visualisations générés.
+inclut les figures/ visualisations généré(e)s.
 
 **20240124_JB_donneesouvertes_docpubqc_histogram_freqlang_complet.png** contient un histogram montrant la fréquence des langues (complet) du jeu de donnée documents publié au au Québec.   
 **20240124_JB_donneesouvertes_docpubqc_histogram_freqlang_sansfren.png** contient un histogram montrant la fréquence des langues (sans français et anglais) du jeu de donnée documents publié au au Québec.
